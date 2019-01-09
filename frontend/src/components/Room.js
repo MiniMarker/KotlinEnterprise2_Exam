@@ -61,6 +61,10 @@ class Room extends Component {
 						<h2>{this.state.price},-</h2>
 						<div className="buy-btn" onClick={this.makePurchase}>Purchase tickets</div>
 					</div>
+					{/*
+
+					//This is showing selected seats, travis fails because of this.
+
 					<div className="selectedSeats">
 						<h3>Selected seats:</h3>
 						{this.state.seatmap.filter(seat => {
@@ -70,6 +74,9 @@ class Room extends Component {
 						})
 						}
 					</div>
+
+					*/}
+
 				</div>
 				: <p>No seats for this movie found</p>
 			}
