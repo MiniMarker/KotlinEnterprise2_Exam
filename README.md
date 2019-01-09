@@ -1,16 +1,15 @@
-[![Build Status](https://travis-ci.org/mudasar187/Enterprise_Exam2018.svg?branch=master)](https://travis-ci.org/mudasar187/Enterprise_Exam2018)    
-
-## Enterprise 2 - PG6100    
-
-## Exam Fall 2018    
-
-## Cinema Application
+# KotlinEnterprise2_Exam - PG6100 
+[![Build Status](https://travis-ci.org/mudasar187/Enterprise_Exam2018.svg?branch=master)](https://travis-ci.org/mudasar187/Enterprise_Exam2018)  
 
 ## Students 
 - 703830: [Mudasar Ahmad](https://github.com/mudasar187)
 - 704293: [Endre Synnes](https://github.com/synend16)
 - 703960: [Christian Marker](https://github.com/MiniMarker)
-    - Christian forgot sign out of his other GitHub-profile (ExamUser) before he made a commit to this project. So that's the reason there is one commit from this user. 
+
+## Subject
+PG6100-1 18H Enterpriseprogrammering 2
+
+# Cinema Application
     
 ## Attachments 
 1. [Exam 2018 Document](docs/PG6100Exam.pdf)   
