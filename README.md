@@ -2,17 +2,17 @@
 [![Build Status](https://travis-ci.org/MiniMarker/KotlinEnterprise2_Exam.svg?branch=master)](https://travis-ci.org/MiniMarker/KotlinEnterprise2_Exam)
 
 ## Students 
-- 703830: [Mudasar Ahmad](https://github.com/mudasar187)
-- 704293: [Endre Synnes](https://github.com/synend16)
-- 703960: [Christian Marker](https://github.com/MiniMarker)
+- Mudasar Ahmad: [GitHub](https://github.com/mudasar187)
+- Endre Synnes: [GitHub](https://github.com/synend16)
+- Christian Marker: [GitHub](https://github.com/MiniMarker)
 
 ## Subject
-PG6100-1 18H Enterpriseprogrammering 2
+- Code: PG6100
+- Name: Enterprise Programming 2
+- Year: Autumn 2018 
+- Lecturer: Andrea Arcuri
 
 # Cinema Application
-
-[![Watch the video](docs/imgs/gitGif.gif)](https://vimeo.com/311274990)
-<br/>(https://vimeo.com/311274990)
 
 ## Attachments 
 1. [Exam 2018 Document](docs/PG6100Exam.pdf)   
@@ -95,6 +95,10 @@ Notice that you need to run `mvn clean install` to build the jar-files to tests 
 ## Work progress
 The task stated that every team-member had to create at least one RESTful API endpoint each.
 I our case every team member had to create two APIs, all of these provides POST, PUT, PATCH, GET, and DELETE methods to modify the Entities in the DB.
+
+### Git commit video
+[![Watch the video](docs/imgs/gitGif.gif)](https://vimeo.com/311274990)
+<br/>https://vimeo.com/311274990
 
 ### Who made what?
 - Christian
