@@ -1,5 +1,8 @@
 [Back to README](../README.md)
 
+## Content of default data
+[See this document](defaultdataContent.md)
+
 ## Instructions on how to import Default data
 To import this default data you need to have Postman installed on your computer. <br/>
 Postman is a free and powerful application for Mac, Windows and Linux that lets a user do HTTP-requests directly from your computer. <br/>

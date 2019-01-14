@@ -52,7 +52,7 @@
 | Name | Sci-fi |
 
 ### Movies
-
+1
 | Field | Value |
 |--|--|
 | Title | Inception |
@@ -61,6 +61,7 @@
 | MovieDuration | 148 |
 | AgeLimit | 15 |
 
+2
 | Field | Value |
 |--|--|
 | Title | Avengers: Infinity War |
@@ -69,6 +70,7 @@
 | MovieDuration | 149 |
 | AgeLimit | 12 |
 
+3
 | Field | Value |
 |--|--|
 | Title | Batman: The Dark Knight |
@@ -77,6 +79,7 @@
 | MovieDuration | 152 |
 | AgeLimit | 15 |
 
+4
 | Field | Value |
 |--|--|
 | Title | Star Wars: Episode IV - A New Hope |
@@ -85,6 +88,7 @@
 | MovieDuration | 121 |
 | AgeLimit | 12 |
 
+5
 | Field | Value |
 |--|--|
 | Title | Star Trek: Discovery |
@@ -93,6 +97,7 @@
 | MovieDuration | 60 |
 | AgeLimit | 16 |
 
+6
 | Field | Value |
 |--|--|
 | Title | Avatar |
@@ -103,7 +108,107 @@
 
 ### Now Playings
 
-### Users
+| Field | Value |
+|--|--|
+| Movie | Inception |
+| Room | Sal 1 |
+| Cinema | Ringen |
+| Time | 2018-12-28 19:30:00 |
+
+| Field | Value |
+|--|--|
+| Movie | Avengers: Infinity War |
+| Room | Sal 2 |
+| Cinema | Ringen |
+| Time | 2018-12-28 18:00:00 |
+
+| Field | Value |
+|--|--|
+| Movie | Batman: The Dark Knight |
+| Room | Sal 1 |
+| Cinema | Ringen |
+| Time | 2018-12-27 15:00:00 |
+
+| Field | Value |
+|--|--|
+| Movie | Inception |
+| Room | Sal 2 |
+| Cinema | Ringen |
+| Time | 2018-12-27 20:00:00 |
+
+| Field | Value |
+|--|--|
+| Movie | Avengers: Infinity War |
+| Room | Sal 1 |
+| Cinema | Ringen |
+| Time | 2018-12-26 18:30:00 |
+
+| Field | Value |
+|--|--|
+| Movie | Batman: The Dark Knight |
+| Room | Sal 2 |
+| Cinema | Ringen |
+| Time | 2018-12-26 20:00:00 |
+
+| Field | Value |
+|--|--|
+| Movie | Star Wars: Episode IV - A New Hope |
+| Room | Sal 1 |
+| Cinema | Vika |
+| Time | 2018-12-28 17:45:00 |
+
+| Field | Value |
+|--|--|
+| Movie | Star Trek: Discovery |
+| Room | Sal 2 |
+| Cinema | Vika |
+| Time | 2018-12-28 13:00:00 |
+
+| Field | Value |
+|--|--|
+| Movie | Avatar |
+| Room | Sal 1 |
+| Cinema | Vika |
+| Time | 2018-12-27 20:00:00 |
+
+| Field | Value |
+|--|--|
+| Movie | Star Wars: Episode IV - A New Hope |
+| Room | Sal 2 |
+| Cinema | Vika |
+| Time | 2018-12-27 15:10:00 |
+
+| Field | Value |
+|--|--|
+| Movie | Star Trek: Discovery |
+| Room | Sal 1 |
+| Cinema | Vika |
+| Time | 2018-12-26 20:15:00 |
+
+| Field | Value |
+|--|--|
+| Movie | Avatar |
+| Room | Sal 2 |
+| Cinema | Vika |
+| Time | 2018-12-26 18:00:00 |
+
+### Coupons
+| Field | Value |
+|--|--|
+| Code | exam2018 |
+| Description | Christmas is coming!... |
+| ExpireAt | 2019-03-01 12:00:00 |
+| Percentage | 20 |
+
+### User
+
+| Field | Value |
+|--|--|
+| Username | foo |
+| Password | foo |
+| Name | Foo |
+| DateOfBirth | 2000-01-01 |
+| Email | foo@gmail.com |
 
 ### Admin
 
@@ -113,8 +218,6 @@
 | Password | admin |
 | DateOfBirth | 2000-01-01 |
 | Email | admin@gmail.com |
-
-### Coupons
 
 
 
