@@ -1,13 +1,6 @@
 # KotlinEnterprise2_Exam - PG6100 
 [![Build Status](https://travis-ci.org/MiniMarker/KotlinEnterprise2_Exam.svg?branch=master)](https://travis-ci.org/MiniMarker/KotlinEnterprise2_Exam)
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://vimeo.com/311274990" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
-
 ## Students 
 - 703830: [Mudasar Ahmad](https://github.com/mudasar187)
 - 704293: [Endre Synnes](https://github.com/synend16)
