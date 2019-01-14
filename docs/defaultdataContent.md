@@ -52,7 +52,7 @@
 | Name | Sci-fi |
 
 ### Movies
-1
+
 | Field | Value |
 |--|--|
 | Title | Inception |
@@ -61,7 +61,6 @@
 | MovieDuration | 148 |
 | AgeLimit | 15 |
 
-2
 | Field | Value |
 |--|--|
 | Title | Avengers: Infinity War |
@@ -70,7 +69,6 @@
 | MovieDuration | 149 |
 | AgeLimit | 12 |
 
-3
 | Field | Value |
 |--|--|
 | Title | Batman: The Dark Knight |
@@ -79,7 +77,6 @@
 | MovieDuration | 152 |
 | AgeLimit | 15 |
 
-4
 | Field | Value |
 |--|--|
 | Title | Star Wars: Episode IV - A New Hope |
@@ -88,7 +85,6 @@
 | MovieDuration | 121 |
 | AgeLimit | 12 |
 
-5
 | Field | Value |
 |--|--|
 | Title | Star Trek: Discovery |
@@ -97,7 +93,6 @@
 | MovieDuration | 60 |
 | AgeLimit | 16 |
 
-6
 | Field | Value |
 |--|--|
 | Title | Avatar |
