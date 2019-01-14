@@ -10,7 +10,9 @@
 PG6100-1 18H Enterpriseprogrammering 2
 
 # Cinema Application
-    
+
+[![Watch the video](docs/imgs/gitGif.gif)](https://vimeo.com/311274990)
+
 ## Attachments 
 1. [Exam 2018 Document](docs/PG6100Exam.pdf)   
 2. [Distribution of work](docs/workdistribution.md)
