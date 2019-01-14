@@ -4,14 +4,12 @@
 
 ### Cinemas
 
-**1**
 | Field | Value |
 |--|--|
 | Name | Ringen |
 | Location | Oslo | 
 
-  
-**2**
+
 | Field | Value |
 |--|--|
 | Name | Vika |
