@@ -2,12 +2,15 @@
 [![Build Status](https://travis-ci.org/MiniMarker/KotlinEnterprise2_Exam.svg?branch=master)](https://travis-ci.org/MiniMarker/KotlinEnterprise2_Exam)
 
 ## Students 
-- 703830: [Mudasar Ahmad](https://github.com/mudasar187)
-- 704293: [Endre Synnes](https://github.com/synend16)
-- 703960: [Christian Marker](https://github.com/MiniMarker)
+- Mudasar Ahmad: [GitHub](https://github.com/mudasar187)
+- Endre Synnes: [GitHub](https://github.com/synend16)
+- Christian Marker: [GitHub](https://github.com/MiniMarker)
 
 ## Subject
-PG6100-1 18H Enterpriseprogrammering 2
+- Code: PG6100
+- Name: Enterprise Programming 2
+- Year: Autumn 2018 
+- Lecturer: Andrea Arcuri
 
 # Cinema Application
 
