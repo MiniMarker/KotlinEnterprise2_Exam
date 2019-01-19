@@ -1,5 +1,8 @@
 # KotlinEnterprise2_Exam - PG6100 
 [![Build Status](https://travis-ci.org/MiniMarker/KotlinEnterprise2_Exam.svg?branch=master)](https://travis-ci.org/MiniMarker/KotlinEnterprise2_Exam)
+[![codecov](https://codecov.io/gh/MiniMarker/KotlinEnterprise2_Exam/branch/master/graph/badge.svg)](https://codecov.io/gh/MiniMarker/KotlinEnterprise2_Exam)
+
+
 
 ## Students 
 - Mudasar Ahmad: [GitHub](https://github.com/mudasar187)
