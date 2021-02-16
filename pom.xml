@@ -98,7 +98,7 @@
 	    <!-- UTILS -->
 	    <version.logback-classic>1.2.3</version.logback-classic>
 	    <version.jcl-over-slf4j>1.7.25</version.jcl-over-slf4j>
-	    <spring-fox-swagger2.version>2.9.2</spring-fox-swagger2.version>
+	    <spring-fox-swagger2.version>2.10.0</spring-fox-swagger2.version>
 
 		<!-- OTHER -->
         <version.wiremock>2.2.1</version.wiremock>
